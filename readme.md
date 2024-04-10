@@ -1,3 +1,6 @@
+[![FullSync Notion Star](https://github.com/renhai-lab/github-notion-star/actions/workflows/full-sync.yml/badge.svg)](https://github.com/renhai-lab/github-notion-star/actions/workflows/full-sync.yml)
+[![Partial Sync Notion Star](https://github.com/renhai-lab/github-notion-star/actions/workflows/partial-sync.yml/badge.svg)](https://github.com/renhai-lab/github-notion-star/actions/workflows/partial-sync.yml)
+
 # github-notion-star
 
 使用 Notion 和 Github Actions 同步和管理你的 Github Star.
